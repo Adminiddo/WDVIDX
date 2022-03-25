@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#CodedBy Mr.B41B4L.X
+#CodedBy Mr.IDDO X-PLOID
 #WEBDAVdeface
 #JanganDiRecodeYaGayn:)
 #let'go cekidot :)
@@ -22,7 +22,7 @@ figlet -f pagga WEBDAV DEFACE | lolcat
       echo $bi"  _____________________"
       echo $bi" /                    /"$bi"|" $me" contacts: 014-994 8933"
       echo $bi"/____________________/"$bi" |" $pu" ========================"
-      echo $bi"|" $ku"•Author: IDDO X-PLOID•" $bi"|" $bi"|" $me" Me:balbalgaming230504@gmail.com"
+      echo $bi"|" $ku"•Author: IDDO X-PLOID•" $bi"|" $bi"|" $me" Me:iddoxploid@gmail.com"
       echo $bi"|====================|"$bi" |" $pu" ========================"
       echo $bi"|" $ku"Thanks To Termux_ID"$bi"|"$bi" |" $me" IG: @iddoaxell_05 "
       echo $bi"|________|°|°|_______|"$bi"/" $pu"  ========================"
